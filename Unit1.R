@@ -67,3 +67,4 @@ if (identical(result, diag(nrow(B)))) {
 } else {
   print("Given matrix is not orthogonal")
 }
+
