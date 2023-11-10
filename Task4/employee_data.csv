@@ -1,30 +1,21 @@
-Employee ID,Name,Department,Salary (USD),Joining Date
-1,John Doe,Engineering,"10,000",2023-03-01
-2,Jane Doe,Sales,"8,000",2023-05-05
-3,Peter Parker,Marketing,"7,000",2023-07-07
-4,Mary Jane Watson,HR,"6,000",2023-09-09
-5,Bruce Wayne,CEO,"20,000",2023-01-01
-6,Clark Kent,Journalist,"5,000",2023-04-04
-7,Diana Prince,Ambassador,"4,000",2023-06-06
-8,Arthur Curry,Aquaman,"3,000",2023-08-08
-9,Victor Stone,Cyborg,"2,000",2023-10-10
-10,Barry Allen,The Flash,"1,000",2023-12-12
-11,Kamala Khan,Intern,"1,500",2023-02-02
-12,Miles Morales,Spider-Man,"2,500",2023-06-06
-13,Riri Williams,Ironheart,"3,500",2023-08-08
-14,Laura Kinney,X-23,"4,500",2023-10-10
-15,Jean Grey,Phoenix,"5,500",2023-12-12
-16,Logan,Wolverine,"6,500",2023-01-01
-17,Scott Summers,Cyclops,"7,500",2023-03-03
-18,Charles Xavier,Professor X,"8,500",2023-05-05
-19,Erik Lensherr,Magneto,"9,500",2023-07-07
-20,Thanos,Mad Titan,"10,500",2023-09-09
-21,Galactus,Planet Devourer,"11,500",2023-02-02
-22,Beyonder,Cosmic Entity,"12,500",2023-04-04
-23,The Living Tribunal,Cosmic Judge,"13,500",2023-06-06
-24,One-Above-All,Supreme Being,"14,500",2023-08-08
-25,The Presence,God,"15,500",2023-10-10
-26,Adam,Guardian of the Galaxy,"16,500",2023-01-01
-27,Gamora,Zehoberei,"17,500",2023-03-03
-28,Drax the Destroyer,Praxagore,"18,500",2023-05-05
-29,Rocket Raccoon,Halfworld,"19,500",2023-07-09
+"EmployeeID","Name","Department","Salary","JoiningDate"
+1,"Aaron","Marketing",96062,2012-06-18
+2,"Lahari","HR",75556,2016-09-18
+3,"Anna","Finance",51520,2011-02-14
+4,"Priya","Finance",55383,2014-03-04
+5,"Vishnu","IT",63624,2019-10-24
+6,"Pavi","HR",89363,2016-02-02
+7,"Alwin","HR",99888,2010-09-17
+8,"Amar","Finance",82759,2016-01-08
+9,"Ann","Finance",50826,2017-11-07
+10,"Sona","Marketing",88376,2016-03-28
+11,"Ashwin","Finance",64582,2012-12-20
+12,"Akhil","IT",91407,2014-07-23
+13,"Sidharth","HR",79046,2017-05-04
+14,"Abin","Marketing",80379,2022-08-06
+15,"Rojal","IT",82743,2016-10-05
+16,"Joe","Finance",80755,2018-05-22
+17,"Mohith","Finance",95321,2017-05-09
+18,"DKB","HR",74564,2017-09-16
+19,"Hiran","IT",63039,2019-08-21
+20,"Shawn","Marketing",69328,2013-02-18
